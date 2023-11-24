@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056950952954",
+    "project_id": "login-register-firebase-e86ef",
+    "storage_bucket": "login-register-firebase-e86ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056950952954:android:81170153ee359f9f79ba43",
+        "android_client_info": {
+          "package_name": "com.example.anacosmetik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhX0yZBOEJoHyF8gEneIeY_LK456vwX4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

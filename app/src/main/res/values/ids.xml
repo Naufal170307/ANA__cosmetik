@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+    <item name="cari1" type="id" />
+    <item name="rekomen" type="id" />
+    <item name="imageButton1" type="id" />
+    <item name="imageButton2" type="id" />
+    <item name="imageButton3" type="id" />
+</resources>

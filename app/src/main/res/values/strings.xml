@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANA</string>
+    <string name="home">home</string>
+    <string name="hello_blank_fragment" />
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="loginn">Login</string>
+    <string name="register">Regristras</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">logout</string>
+</resources>
